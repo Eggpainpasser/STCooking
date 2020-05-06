@@ -1,2 +1,2 @@
-# pockcook
-the app for choosing stock
+# STCooking
+the simple app for choosing stock
